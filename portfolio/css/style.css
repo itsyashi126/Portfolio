@@ -17,9 +17,9 @@ button:hover {
 
 #form {
     font-size: 50px;
-    width: 100%;
     text-align: center;
     padding: 50px;
+    background-color: blanchedalmond;
     margin: 30px;
 }
 
@@ -28,8 +28,8 @@ input[type=text],
 [type=email] {
     padding: 20px;
     margin: 20px;
-    background-color: black;
-    color: white;
+    background-color: rgb(249, 240, 240);
+    color: rgb(17, 16, 16);
     border: none;
 }
 
